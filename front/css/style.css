@@ -54,7 +54,7 @@ body {
     height: 300px;
     margin-bottom: 40px;
     background-color: #FFFFFF;
-    background-image: url(../img/load.png);
+    background-image: url(../img/loading.gif);
     background-position: center;
     background-repeat: no-repeat;
 }
